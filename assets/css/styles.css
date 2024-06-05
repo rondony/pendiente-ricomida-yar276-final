@@ -1,0 +1,75 @@
+.navbar {
+    background-color: #373A3C;
+}
+.navbar a{
+    font-family: "Lobster","sans-serif";
+    font-size: 37pt;
+}
+.navbar li a{
+    font-family: "Cabin", "sans-serif";
+    font-size: 16pt;
+}
+#pizza{
+    font-size: 40pt;
+    font-family: "Cabin", "sans-serif";
+}
+#tiempo{
+    font-size: 20pt;
+    font-family: "Cabin", "sans-serif";
+}
+
+.carousel-indicators [data-bs-target] {
+    border-radius: 50%;
+    width: 15px;
+    height: 15px;
+}
+.custom-tooltip{
+    --bs-tooltip-bg:#373A3C;
+    --bs-tooltip-color:#FFFFFF;
+}
+
+button, input, optgroup, select, textarea {
+    margin: -20px;
+}
+#receta ul li{
+list-style: none;
+font-family: "Cabin","sans-serif";
+font-size: 20pt;
+}
+#subs{
+    background-color: #DC3545;
+    padding: 250pt;
+}
+#subs h2{
+    font-family: "Cabin", "sans-serif";
+    font-size: 40pt;
+}
+#subs h3{
+    font-family: "Cabin","sans-serif";
+    font-size: 30pt;
+}
+#marca{
+    font-family: "Lobster","sans-serif";
+}
+#subs button{
+    padding: 10px 5px;
+}
+#final{
+    background-color: #373A3C;
+    padding: 3pt;
+    font-family: "Lobster", "sans-serif";
+    font-size: 37pt;
+}
+#recetario{
+    font-family: "Cabin","sans-serif";
+    font-size: 40pt;
+}
+#receta p{
+    font-family: "Cabin", "sans-serif";
+    font-size: 20pt;
+}
+#ult.recet p{
+    font-family: "Cabin", "sans-serif";
+    font-size: 16pt;
+    font-weight: 400;
+}
